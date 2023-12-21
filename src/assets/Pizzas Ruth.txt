@@ -1,0 +1,11 @@
+Pizzas Ruth
+
+**Atendente**
+1 - Cadastro de Cliente(ViaCEP)
+2 - Cadastro de pizza(sabor)
+3 - Efetuar pedido
+4 - Cadastro de bebidas
+
+**Usuário/Cliente**
+1 - Efetuar o pedido
+2 - Cadastro de cliente(ViaCEP)
